@@ -2,4 +2,4 @@
 
 # Projects:
 ![ProjectOffensive](https://github.com/GenesisFoundationCore/.github/assets/153700938/edfb6a19-cbc5-4ae1-a71a-90f92c971571)
-- ![Katyusha](https://github.com/GenesisFoundationCore/Katyusha)
+- [Katyusha](https://github.com/GenesisFoundationCore/Katyusha)
