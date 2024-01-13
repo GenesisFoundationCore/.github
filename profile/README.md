@@ -1,5 +1,3 @@
-![Aldrich](https://github.com/GenesisFoundationCore/.github/assets/94430800/fd3733f4-6729-4d57-9c01-6f0fcd961c5e)![Genesis Foundation Core](https://github.com/GenesisFoundationCore/.github/assets/153700938/3b5ec3a7-107a-4f81-b83e-14c8fb076ac9)
-
 # Projects:
 
 
